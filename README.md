@@ -9,7 +9,7 @@ The primary objective is to demonstrate how to translate real-world requirements
 > Project type: Low-Level Design (LLD) / Object-Oriented Design  
 > Language: Java  
 > Build tool: Maven  
-> Architecture: Modular,, layered Java application  
+> Architecture: Modular,layered Java application  
 > Testing: JUnit 5  
 > Status: In development
 
