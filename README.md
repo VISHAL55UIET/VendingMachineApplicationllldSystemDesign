@@ -1,4 +1,4 @@
-# Vending Machine System — Low-Level Design in Java
+# Vending Machine System — Low-Level Design in Java.
 
 A production-oriented vending machine system designed using Java, object-oriented design principles, SOLID, established design patterns, and clean architectural boundaries.
 
